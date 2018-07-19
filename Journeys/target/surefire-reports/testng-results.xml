@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-07-19T16:45:13Z" name="Command line suite" finished-at="2018-07-19T16:45:13Z" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2018-07-19T16:45:13Z" name="Command line test" finished-at="2018-07-19T16:45:13Z" duration-ms="27">
+      <class name="com.utilities.Tests11">
+        <test-method signature="f()[pri:0, instance:com.utilities.Tests11@123ef382]" started-at="2018-07-19T16:45:13Z" name="f" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f2()[pri:0, instance:com.utilities.Tests11@123ef382]" started-at="2018-07-19T16:45:13Z" name="f2" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- com.utilities.Tests11 -->
+      <class name="com.utilities.NewTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="beforeSuite" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="beforeTest" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.utilities.Tests11@123ef382]" started-at="2018-07-19T16:45:13Z" name="beforeTest" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="beforeClass" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="beforeMethod" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="f" finished-at="2018-07-19T16:45:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="afterMethod" finished-at="2018-07-19T16:45:13Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="afterClass" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="afterTest" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.utilities.Tests11@123ef382]" started-at="2018-07-19T16:45:13Z" name="afterTest" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.utilities.NewTest@f5ac9e4]" started-at="2018-07-19T16:45:13Z" name="afterSuite" finished-at="2018-07-19T16:45:13Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.utilities.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

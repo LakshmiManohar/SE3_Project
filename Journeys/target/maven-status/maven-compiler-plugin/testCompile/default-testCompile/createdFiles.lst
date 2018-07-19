@@ -1,0 +1,10 @@
+com\journeys\module\SignupPageModule.class
+com\utilities\Method.class
+com\utilities\NewTest.class
+com\page\data\dataSetup.class
+com\base\Setup\BaseSetup.class
+com\utilities\Tests11.class
+com\dataManager\DataManager.class
+com\user\actions\Actions.class
+com\journeys\locators\SignupPageLocators.class
+com\journeys\testsuite\SignupTestsuite.class

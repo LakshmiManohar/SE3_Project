@@ -1,0 +1,7 @@
+<suite name="Testsuite-Alpha">
+<test name="Alpha-Test">
+<classes>
+<class name ="com.journeys.testsuite.SignupTestsuite"/>
+</classes>
+</test>
+</suite>
